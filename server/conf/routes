@@ -3,7 +3,16 @@
 # ~~~~
 
 # Home page
+GET        /login                        edu.trinity.videoquizreact.controllers.Application.login
 GET        /                             edu.trinity.videoquizreact.controllers.Application.index
+GET        /color                        edu.trinity.videoquizreact.controllers.Application.userColor(username:String, color:String)
+#GET        /color/:username/:color       edu.trinity.videoquizreact.controllers.Application.userColor(username:String, color:String)
+#+nocsrf
+#POST        /loginPost                     edu.trinity.videoquizreact.controllers.Application.loginPost
++nocsrf
+POST        /loginValidate                 edu.trinity.videoquizreact.controllers.Application.validateLoginPost 
+GET        /validatedUser                  edu.trinity.videoquizreact.controllers.Application.userPost
+GET        /logout                          edu.trinity.videoquizreact.controllers.Application.logout
 
 # Prefix must match `play.assets.urlPrefix`
 GET        /assets/*file                 controllers.Assets.at(file)

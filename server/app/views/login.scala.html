@@ -1,0 +1,22 @@
+@()
+
+@main("Login") {
+    <form method="get" action="/color">
+        <h3>GET Form</h3>
+        <br>
+        Name: <input type="text" name="username"></input>
+        <br>
+        Favorite Color: <input type="text" name="color"></input>
+        <br>
+        <input type="submit"></input>
+    </form>
+
+    <form method="post" action="/loginValidate">
+        <h3>Post Form</h3>
+        <br>
+        Username: <input type="text" id="PostUser" name="username"></input>
+        Password: <input type="password" id="passID" name="password"></input>
+        <br>
+        <input type="submit"></input>
+    </form>
+}

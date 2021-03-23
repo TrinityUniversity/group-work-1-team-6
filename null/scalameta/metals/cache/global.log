@@ -1,0 +1,85 @@
+[0m2021.03.09 11:56:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\null\scalameta\metals\cache\lsp.trace.json[0m
+[0m2021.03.09 11:56:27 INFO  Starting Metals server with configuration: MetalsServerConfig(
+  glob-syntax=GlobSyntaxConfig(vscode),
+  status-bar=StatusBarConfig(off),
+  open-files-on-rename=false,
+  rename-file-threshold=300,
+  slow-task=SlowTaskConfig(off),
+  execute-client-command=ExecuteClientCommandConfig(off),
+  compilers=PresentationCompilerConfigImpl(false,Some(editor.action.triggerParameterHints),Some(editor.action.triggerSuggest),Map(scala/collection/mutable/ -> mutable., java/util/ -> ju.),Unicode,true,true,true,true,true,true,true,scala.meta.internal.pc.PresentationCompilerConfigImpl$$$Lambda$61/1691538257@3f197a46,20,SECONDS),
+  http=false,
+  input-box=false,
+  ask-to-reconnect=false,
+  icons=vscode,
+  statistics=StatisticsConfig(default),
+  bloop-port=default
+)[0m
+[0m2021.03.09 11:56:28 INFO  logging to file C:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\.metals\metals.log[0m
+[0m2021.03.09 14:18:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\null\scalameta\metals\cache\lsp.trace.json[0m
+[0m2021.03.09 14:18:09 INFO  Starting Metals server with configuration: MetalsServerConfig(
+  glob-syntax=GlobSyntaxConfig(vscode),
+  status-bar=StatusBarConfig(off),
+  open-files-on-rename=false,
+  rename-file-threshold=300,
+  slow-task=SlowTaskConfig(off),
+  execute-client-command=ExecuteClientCommandConfig(off),
+  compilers=PresentationCompilerConfigImpl(false,Some(editor.action.triggerParameterHints),Some(editor.action.triggerSuggest),Map(scala/collection/mutable/ -> mutable., java/util/ -> ju.),Unicode,true,true,true,true,true,true,true,scala.meta.internal.pc.PresentationCompilerConfigImpl$$$Lambda$61/1691538257@3f197a46,20,SECONDS),
+  http=false,
+  input-box=false,
+  ask-to-reconnect=false,
+  icons=vscode,
+  statistics=StatisticsConfig(default),
+  bloop-port=default
+)[0m
+[0m2021.03.09 14:18:10 INFO  logging to file C:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\.metals\metals.log[0m
+[0m2021.03.16 11:20:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\null\scalameta\metals\cache\lsp.trace.json[0m
+[0m2021.03.16 11:20:49 INFO  Starting Metals server with configuration: MetalsServerConfig(
+  glob-syntax=GlobSyntaxConfig(vscode),
+  status-bar=StatusBarConfig(off),
+  open-files-on-rename=false,
+  rename-file-threshold=300,
+  slow-task=SlowTaskConfig(off),
+  execute-client-command=ExecuteClientCommandConfig(off),
+  compilers=PresentationCompilerConfigImpl(false,Some(editor.action.triggerParameterHints),Some(editor.action.triggerSuggest),Map(scala/collection/mutable/ -> mutable., java/util/ -> ju.),Unicode,true,true,true,true,true,true,true,scala.meta.internal.pc.PresentationCompilerConfigImpl$$$Lambda$61/1691538257@3f197a46,20,SECONDS),
+  http=false,
+  input-box=false,
+  ask-to-reconnect=false,
+  icons=vscode,
+  statistics=StatisticsConfig(default),
+  bloop-port=default
+)[0m
+[0m2021.03.16 11:20:50 INFO  logging to file C:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\.metals\metals.log[0m
+[0m2021.03.16 15:38:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\null\scalameta\metals\cache\lsp.trace.json[0m
+[0m2021.03.16 15:38:54 INFO  Starting Metals server with configuration: MetalsServerConfig(
+  glob-syntax=GlobSyntaxConfig(vscode),
+  status-bar=StatusBarConfig(off),
+  open-files-on-rename=false,
+  rename-file-threshold=300,
+  slow-task=SlowTaskConfig(off),
+  execute-client-command=ExecuteClientCommandConfig(off),
+  compilers=PresentationCompilerConfigImpl(false,Some(editor.action.triggerParameterHints),Some(editor.action.triggerSuggest),Map(scala/collection/mutable/ -> mutable., java/util/ -> ju.),Unicode,true,true,true,true,true,true,true,scala.meta.internal.pc.PresentationCompilerConfigImpl$$$Lambda$61/1691538257@3f197a46,20,SECONDS),
+  http=false,
+  input-box=false,
+  ask-to-reconnect=false,
+  icons=vscode,
+  statistics=StatisticsConfig(default),
+  bloop-port=default
+)[0m
+[0m2021.03.16 15:38:54 INFO  logging to file C:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\.metals\metals.log[0m
+[0m2021.03.18 11:53:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\null\scalameta\metals\cache\lsp.trace.json[0m
+[0m2021.03.18 11:53:56 INFO  Starting Metals server with configuration: MetalsServerConfig(
+  glob-syntax=GlobSyntaxConfig(vscode),
+  status-bar=StatusBarConfig(off),
+  open-files-on-rename=false,
+  rename-file-threshold=300,
+  slow-task=SlowTaskConfig(off),
+  execute-client-command=ExecuteClientCommandConfig(off),
+  compilers=PresentationCompilerConfigImpl(false,Some(editor.action.triggerParameterHints),Some(editor.action.triggerSuggest),Map(scala/collection/mutable/ -> mutable., java/util/ -> ju.),Unicode,true,true,true,true,true,true,true,scala.meta.internal.pc.PresentationCompilerConfigImpl$$$Lambda$61/1691538257@3f197a46,20,SECONDS),
+  http=false,
+  input-box=false,
+  ask-to-reconnect=false,
+  icons=vscode,
+  statistics=StatisticsConfig(default),
+  bloop-port=default
+)[0m
+[0m2021.03.18 11:53:57 INFO  logging to file C:\Users\sabri\Documents\TrinityUni_2021\CSCI-3345\Play6repo\team6_pt2\group-work-1-team-6\.metals\metals.log[0m
